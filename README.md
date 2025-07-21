@@ -1,1 +1,1 @@
-<img align="right" alt="Coding GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://media.tenor.com/images/76e55a01e1a3aae4ef02b5eaa67ede7a/tenor.gif" alt="Purple Matrix Code GIF">
