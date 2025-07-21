@@ -1,1 +1,1 @@
-<img align="right" alt="Purple Developer GIF" width="400" src="https://media.tenor.com/rePFwzmK6VAAAAAC/developer.gif">
+<img align="right" alt="Coding GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
